@@ -1,0 +1,6 @@
+INSERT INTO card_type(id, type_name) VALUES (card_type_sequence.nextval, 'Mastercard')
+INSERT INTO card_type(id, type_name) VALUES (card_type_sequence.nextval, 'American Express')
+INSERT INTO card_type(id, type_name) VALUES (card_type_sequence.nextval, 'Maestro')
+INSERT INTO card_type(id, type_name) VALUES (card_type_sequence.nextval, 'Visa')
+INSERT INTO contact_type(id, type_name) VALUES (contact_type_sequence.nextval, 'SMS')
+INSERT INTO contact_type(id, type_name) VALUES (contact_type_sequence.nextval, 'EMAIL')
